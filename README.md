@@ -20,7 +20,7 @@ environments:
 - [gin ( http framework )](https://github.com/gin-gonic/gin)
 - [gowatch ( hot reload )](https://github.com/silenceper/gowatch)
 
-GUI tools:
+tools:
 - [Beekeeper CE ( db gui)](https://www.beekeeperstudio.io/get-community)
 - [HTTPIE ( postman like gui )](https://httpie.io/download)
 - [dbdiagram.io](https://www.dbdiagram.io/)
